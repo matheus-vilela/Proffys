@@ -10,7 +10,7 @@
 
 Uma plataforma para conectar de forma simples e fácil, professores e alunos.
 
-O projeto está sendo desenvolvido na [Next Level Week 2 - Rocketseat !!!!](https://nextlevelweek.com/episodios/omnistack/2/edicao/2)
+O projeto está sendo desenvolvido na [Next Level Week 2 - Rocketseat !!!!](https://nextlevelweek.com/episodios/omnistack/1/edicao/2)
 
 
 ##  :warning: Technologies
